@@ -1,0 +1,24 @@
+/* Navigation bar styles */
+nav {
+    background-color: #008080; /* Elegant teal color */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Link styles */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Hover effect */
+nav a:hover {
+    color: #d1e7e7; /* Light teal hover effect */
+}
+
+nav a:active {
+    color: #b3c5c5; /* Color when the link is clicked */
+}
