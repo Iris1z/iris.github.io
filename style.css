@@ -2,7 +2,7 @@
 nav {
     background-color: #008080; /* Elegant teal color */
     padding: 10px;
-    text-align: center;
+    text-align: right; /* Change alignment to right */
 }
 
 /* Link styles */
